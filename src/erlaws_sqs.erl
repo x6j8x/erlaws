@@ -1,7 +1,5 @@
 %%-------------------------------------------------------------------
-%% @author Sascha Matzke <sascha.matzke@didolo.com>
-%%   [http://www.didolo.com/] 
-%% @copyright 2007 Didolo Ltd.
+%% @author Sascha Matzke <sascha.matzke@didolo.org>
 %% @doc This is an client implementation for Amazon's Simple Queue Service
 %% @end
 %%%-------------------------------------------------------------------

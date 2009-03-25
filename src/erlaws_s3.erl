@@ -1,9 +1,9 @@
 %%%-------------------------------------------------------------------
 %%% File    : erlaws_s3.erl
-%%% Author  : Sascha Matzke <sascha.matzke@didolo.com>
+%%% Author  : Sascha Matzke <sascha.matzke@didolo.org>
 %%% Description : Amazon S3 client library
 %%%
-%%% Created : 25 Dec 2007 by Sascha Matzke <sascha.matzke@didolo.com>
+%%% Created : 25 Dec 2007 by Sascha Matzke <sascha.matzke@didolo.org>
 %%%-------------------------------------------------------------------
 
 -module(erlaws_s3, [AWS_KEY, AWS_SEC_KEY, SECURE]).
